@@ -10,7 +10,5 @@ ExpressJS Sample Application
 FROM [codenvy/node](https://hub.docker.com/r/codenvy/node/)
 
 # How to run
-
-| #       | Description           | Command  |
 | :------------- |:-------------| :-----|
 | 1      | Run | `cd ${current.project.path}/app && node app.js` |
